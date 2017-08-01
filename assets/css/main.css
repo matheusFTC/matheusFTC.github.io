@@ -13,3 +13,8 @@ div#about, div#skills, div#contact {
 div#about header, div#skills header, div#contact header {
     margin-bottom: 30px;
 }
+
+img.avatar {
+    display: block;
+    margin: 10px auto;
+}
