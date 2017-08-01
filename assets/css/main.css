@@ -2,12 +2,13 @@
 
 body {
     position: relative;
-    padding-top: 80px;
+    padding-top: 70px;
 }
 
 div#about, div#skills, div#contact {
     margin-top: 25px;
     margin-bottom: 45px;
+    padding-top: 70px; 
 }
 
 div#about header, div#skills header, div#contact header {
